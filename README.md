@@ -33,8 +33,8 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [x] Links to each main page of the site (Home, Top Attractions, Photo Gallery, and the chosen Guide section).
   - [x] A navigation bar styled with Flexbox that adapts to different screen sizes.  
 
-- [ ] **Smartphone Friendly**
-  - [ ] A design that is fully functional and aesthetically pleasing on smartphones, achieved with media queries.
+- [x] **Smartphone Friendly**
+  - [x] A design that is fully functional and aesthetically pleasing on smartphones, achieved with media queries.
 
 #### STRETCH FEATURES
 
