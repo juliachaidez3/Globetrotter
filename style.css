@@ -107,8 +107,8 @@ body, html {
 
 .attractions-img {
     padding: 10px;
-    width: 80%;
-    height: 80%
+    width: 100%;
+    height: 100%
 }
 
 .attractions-div1 {
@@ -165,7 +165,7 @@ body, html {
 }
 
 @media screen and (max-width: 768px){ejeicbrbrhdkfvckueftiikhkvgnfvtbgubijktbgjtk
-    
+
     .title-container {
         height: 30%;
     }

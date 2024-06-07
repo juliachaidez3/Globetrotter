@@ -2,7 +2,7 @@
 
 Submitted by: **Julia Chaidez**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **12** hours spent in total
 
 Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
@@ -86,3 +86,7 @@ Add your response here
 ### Shout out
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+
+Thank you Devarsh and Erica for giving great presentations on the topics!
+Thank you Alex and Keith for giving me guidance on how to approach parts of the project!
+Thank you Andy and other FTL interns for helping me debug!
