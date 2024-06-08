@@ -59,7 +59,7 @@ Estimated time spent: **12** hours spent in total
 
 ### Walkthrough Video
 
-`<iframe width="560" height="315" src="https://www.youtube.com/embed/Syq7aDTje7c?si=bQFkHBdCsAZJIulY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`
+`<https://youtu.be/Syq7aDTje7c?si=TTI3wBjb_UreW4La>`
 
 ### Reflection
 
