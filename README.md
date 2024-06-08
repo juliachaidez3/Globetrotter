@@ -4,8 +4,6 @@ Submitted by: **Julia Chaidez**
 
 Estimated time spent: **12** hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
-
 ### Application Features
 
 #### CORE FEATURES
@@ -61,23 +59,21 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+`https://youtu.be/Syq7aDTje7c?si=ZFx1OSwgg78iTOfK`
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+The labs were a good introduction to the topics. However, I found it hard to complete the labs without falling behind so I feel like I wasn't able to get the full potiential from the labs. One part of the labs I did find really helpful was the frog game (I forget the exact name), going through those short lessons was helpful for understanding flexbox. I also felt like practicing using the inspect tool was helpful for the project. I felt most unprepared to do the responsive design.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
-  
-Add your response here
+
+If I had more time I would have spent more time on the wireframe. My project is very similar to the example, so I would have liked to be more creative with my layout. I also would have made it more interactive with forms and more external links. Also work on the stretch features.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I think my presentation went well! I feel comfortable with presenting and it was a pretty relax environment. I did go over the 4 minutes so I need to work on time blocking. I like how my peers were very passionate about their projects so I hope to bring the same energy. 
 
 ### Open-source libraries used
 
@@ -87,6 +83,7 @@ Add your response here
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
 
-Thank you Devarsh and Erica for giving great presentations on the topics!
-Thank you Alex and Keith for giving me guidance on how to approach parts of the project!
-Thank you Andy and other FTL interns for helping me debug!
+Thank you Devarsh and Erica for giving great presentations on the topics!\n
+Thank you Alex and Keith for giving me guidance on how to approach parts of the project!\n
+Thank you Andy and other FTL interns for helping me debug!\n
+Thank you W3Schools & Einstien AI!
