@@ -83,7 +83,7 @@ I think my presentation went well! I feel comfortable with presenting and it was
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
 
-Thank you Devarsh and Erica for giving great presentations on the topics!\n
-Thank you Alex and Keith for giving me guidance on how to approach parts of the project!\n
-Thank you Andy and other FTL interns for helping me debug!\n
+Thank you Devarsh and Erica for giving great presentations on the topics!
+Thank you Alex and Keith for giving me guidance on how to approach parts of the project!
+Thank you Andy and other FTL interns for helping me debug!
 Thank you W3Schools & Einstien AI!
